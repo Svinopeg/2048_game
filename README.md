@@ -4,10 +4,11 @@
 Хочешь попробывать? [Скачай](https://github.com/Svinopeg/2048_game/blob/master/2048_Game.exe)<br><br>
 В ветке [master](https://github.com/Svinopeg/2048_game/tree/master) находятся исходные файлы игры.<br>
 В ветке [Отчетность](https://github.com/Svinopeg/2048_game/tree/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C) находятся вся необходимая документация.<br><br>
-# Screenshot
+# Скриншот
 <p align="center">
   <img src="https://github.com/Svinopeg/2048_game/blob/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C/2048.png"/>
 </p>
+
 # Над игрой потели:<br>
 Иван Туйков<br>
 Евгений Порсин <br>
