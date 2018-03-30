@@ -1,0 +1,24 @@
+E:\Программирование\2048_Game\2048_Game\bin\Debug\2048_Game.exe
+E:\Программирование\2048_Game\2048_Game\bin\Debug\2048_Game.pdb
+E:\Программирование\2048_Game\2048_Game\obj\Debug\_2048_Game.Form1.resources
+E:\Программирование\2048_Game\2048_Game\obj\Debug\_2048_Game.Properties.Resources.resources
+E:\Программирование\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.GenerateResource.Cache
+E:\Программирование\2048_Game\2048_Game\obj\Debug\2048_Game.exe
+E:\Программирование\2048_Game\2048_Game\obj\Debug\2048_Game.pdb
+E:\Программирование\2048_Game\2048_Game\obj\Debug\2048_Game.csprojResolveAssemblyReference.cache
+D:\Пользователи\Евгеша\Desktop\2048_Game\2048_Game\obj\Debug\2048_Game.pdb
+D:\Пользователи\Евгеша\Desktop\2048_Game\2048_Game\bin\Debug\2048_Game.exe
+D:\Пользователи\Евгеша\Desktop\2048_Game\2048_Game\bin\Debug\2048_Game.pdb
+D:\Пользователи\Евгеша\Desktop\2048_Game\2048_Game\obj\Debug\2048_Game.csprojResolveAssemblyReference.cache
+D:\Пользователи\Евгеша\Desktop\2048_Game\2048_Game\obj\Debug\_2048_Game.Form1.resources
+D:\Пользователи\Евгеша\Desktop\2048_Game\2048_Game\obj\Debug\_2048_Game.Properties.Resources.resources
+D:\Пользователи\Евгеша\Desktop\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.GenerateResource.Cache
+D:\Пользователи\Евгеша\Desktop\2048_Game\2048_Game\obj\Debug\2048_Game.exe
+D:\Пользователи\Евгеша\Desktop\Новая папка (3)\2048_Game\2048_Game\obj\Debug\2048_Game.exe
+D:\Пользователи\Евгеша\Desktop\Новая папка (3)\2048_Game\2048_Game\obj\Debug\2048_Game.pdb
+D:\Пользователи\Евгеша\Desktop\Новая папка (3)\2048_Game\2048_Game\bin\Debug\2048_Game.exe
+D:\Пользователи\Евгеша\Desktop\Новая папка (3)\2048_Game\2048_Game\bin\Debug\2048_Game.pdb
+D:\Пользователи\Евгеша\Desktop\Новая папка (3)\2048_Game\2048_Game\obj\Debug\2048_Game.csprojResolveAssemblyReference.cache
+D:\Пользователи\Евгеша\Desktop\Новая папка (3)\2048_Game\2048_Game\obj\Debug\_2048_Game.Form1.resources
+D:\Пользователи\Евгеша\Desktop\Новая папка (3)\2048_Game\2048_Game\obj\Debug\_2048_Game.Properties.Resources.resources
+D:\Пользователи\Евгеша\Desktop\Новая папка (3)\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.GenerateResource.Cache
