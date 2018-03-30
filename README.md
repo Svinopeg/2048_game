@@ -1,2 +1,7 @@
 # 2048_game
-Хочешь поиграть?. [Скачай](https://github.com/Svinopeg/2048_game/blob/master/2048_Game.exe)
+Компьютерная игра актуальна и пользуется популярностью среди людей разных возрастов. 
+Цель игры заключается в том, чтобы собрать на поле ячейку с цифрой 2048!
+Хочешь попробывать? [Скачай](https://github.com/Svinopeg/2048_game/blob/master/2048_Game.exe)
+
+В ветке [master](https://github.com/Svinopeg/2048_game/tree/master) находятся исходные файлы игры 
+В ветке [Отчетность](https://github.com/Svinopeg/2048_game/tree/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C) находятся вся необходимая документация
